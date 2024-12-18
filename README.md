@@ -1,5 +1,5 @@
 
-# [Jio Customer Churn Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjg3NzNiYTUtMWI0ZC00NzQxLTg5MTktMTczYjQxOTE3MDU3IiwidCI6ImY1YzRkMWM0LTk4YWYtNDYwMC04ZTcxLThlOTljMzgyNzg0NiIsImMiOjEwfQ%3D%3D)
+# Jio Customer Churn Analysis Dashboard [Link🔗](https://app.powerbi.com/view?r=eyJrIjoiMjg3NzNiYTUtMWI0ZC00NzQxLTg5MTktMTczYjQxOTE3MDU3IiwidCI6ImY1YzRkMWM0LTk4YWYtNDYwMC04ZTcxLThlOTljMzgyNzg0NiIsImMiOjEwfQ%3D%3D)
 
 ## Project Overview
 This project focuses on analyzing customer churn for **Jio**, a major telecommunications company. The goal is to identify churn patterns, understand key metrics driving churn, and provide actionable insights for reducing customer attrition.
